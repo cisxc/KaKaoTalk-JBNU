@@ -1,0 +1,1 @@
+{"lastDeploymentHandler":"com.amazonaws.lambda.demo.message","lastInvokeHandler":null,"handlerMetadata":{"com.amazonaws.lambda.demo.message":{"deployment":{"regionId":"ap-northeast-2","awsLambdaFunctionName":"message","awsIamRoleName":"lambda_basic_execution","awsS3BucketName":"kaka5bot","memory":0,"timeout":0},"invoke":null}},"lastInvokedHandlerDeployed":false}
